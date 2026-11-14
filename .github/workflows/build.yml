@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    uses: geode-sdk/geode/.github/workflows/build.yml@main
+    uses: geode-sdk/geode/.github/build.yml@main
     with:
       platforms: ["android64"]true
       
