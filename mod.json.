@@ -8,11 +8,11 @@
   "settings": {
     "fps-target": {
       "name": "Límite de FPS",
-      "description": "Establece los FPS deseados (ej. 120, 240, 360).",
+      "description": "Establece los FPS deseados (ej. 120, 240, 480).",
       "type": "float",
       "default": 240.0,
-      "min": 60.0,
-      "max": 360.0,
+      "min": 120.0,
+      "max": 480.0,
       "step": 10.0
     }
   }
